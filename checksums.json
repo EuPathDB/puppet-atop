@@ -1,0 +1,9 @@
+{
+  "LICENSE": "e44f2f928a378e66cd57d53cdd5e1c9c",
+  "README.md": "8c7bc530c59bf5f9b755de9e3ba7b266",
+  "manifests/init.pp": "e3bfa3d8ead60f35ad0cdbf79c4b2be2",
+  "manifests/params.pp": "9b35b1c589ca55f2cd953239c2a1cd4f",
+  "metadata.json": "551c50dfc1a7bfb54efe645aaff818cb",
+  "templates/atop-Debian.erb": "b37bcd481a95ef278e324a3e7e0cb468",
+  "templates/atop-RedHat.erb": "66af9a6002502671a00bf12296ff2677"
+}
